@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-date: 2024-01-01
+date: 2026-10-18
 menu: "main"
 ---
 
@@ -11,13 +11,10 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 ## Preferred Contact Methods
 
 ### Email
-[Your Email Address]
+[erik.t.shepard.mil@us.navy.mil](mailto:erik.t.shepard.mil@us.navy.mil)
 
 ### LinkedIn
-[Link to your LinkedIn profile]
-
-### GitHub
-[Link to your GitHub profile]
+[erik-shepard-737a872b4](https://www.linkedin.com/in/erik-shepard-737a872b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## Professional Inquiries
 
