@@ -2,3 +2,30 @@ baseURL = 'https://erikshepard.com/'
 languageCode = 'en-us'
 title = 'My Professional Portfolio'
 theme = 'papermod'
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "about"
+    weight = 20
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    pageRef = "resume"
+    weight = 30
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    pageRef = "projects"
+    weight = 40
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    pageRef = "contact"
+    weight = 50
