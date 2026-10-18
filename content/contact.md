@@ -11,7 +11,7 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 ## Preferred Contact Methods
 
 ### Email
-[erik.t.shepard.mil@us.navy.mil](mailto:erik.t.shepard.mil@us.navy.mil)
+
 
 ### LinkedIn
 [erik-shepard-737a872b4](https://www.linkedin.com/in/erik-shepard-737a872b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
